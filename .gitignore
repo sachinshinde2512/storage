@@ -16,3 +16,5 @@ node_modules
 # Ignore terrform hidden files
 .terraform
 .terraform.*
+terraform.tfstate.backup
+terraform.tfstate
